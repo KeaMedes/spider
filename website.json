@@ -1,0 +1,14 @@
+{
+  "www.baidu.com": {
+    "interval": 100
+  },
+  "www.google.com": {
+    "interval": 200,
+    "hsts": true
+  },
+  "www.facebook.com": {
+    "interval": 200,
+    "hsts": true,
+    "proxy": true
+  }
+}
